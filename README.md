@@ -223,7 +223,7 @@ page views are a good metric to be aware of!_ :chart_with_upwards_trend:
 
 ![02-snyk-signup](https://user-images.githubusercontent.com/194400/49246107-0c6c2900-f40c-11e8-8004-ae31a2369090.png)
 
-3. Click the button to "Athorise Snyk":
+3. Click the button to "Authorise Snyk":
 
 ![03-snyk-authorise](https://user-images.githubusercontent.com/194400/49246108-0c6c2900-f40c-11e8-82e9-deea841fe6bf.png)
 
